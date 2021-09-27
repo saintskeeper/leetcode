@@ -1,0 +1,1 @@
+- left pointer => data <=right pointer
